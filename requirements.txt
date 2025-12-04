@@ -1,0 +1,10 @@
+pandas
+numpy
+nselib
+scikit-learn
+catboost
+lightgbm
+xgboost
+torch
+
+pandas_market_calendars
